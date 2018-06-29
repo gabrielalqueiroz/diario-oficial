@@ -5,6 +5,7 @@ TODO: Describe processing flow
 ### Daniel
 
 ### Elthon
+Novela para rodar localmente:
 ```
 git clone https://github.com/gabrielalqueiroz/diario-oficial.git
 cd diario-oficial/
